@@ -119,9 +119,18 @@
 <br/>
 
   <h3> [4] DecisionTree 모델 </h3>
-  <br> <br/>
+  <br> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/6b556a25-91d0-4a31-93d0-27d5e933b6ea" /> 
+<br/>
 
-  <h3> [5] LogisticRegression 모델 </h3>
+  <h3> [5] LGBM 모델 </h3>
+  <br> <img width="460" height="250" alt="LGBM" src="https://github.com/user-attachments/assets/f5490790-1bed-43b6-b18c-1adecbe1a5c1" />
+<br/>
+
+  <h3> [6] 앙상블 모델 </h3>
+  <br> <img width="600" height="400" alt="image(전부사용 3번째)" src="https://github.com/user-attachments/assets/791564e5-0fa1-47d4-9e21-52d5596f8748" />
+<br/>
+
+  <h3> [6] LogisticRegression 모델 </h3>
   <br> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/0835488e-a799-48a8-85a7-813375642ab5" /> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/c742c073-e463-4f7d-b2f4-267db2195da0" />
 
  <br/>
