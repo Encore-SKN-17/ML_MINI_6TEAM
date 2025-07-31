@@ -72,7 +72,8 @@
 
   
 ## 🪟 WBS
-<img width="1665" height="305" alt="화면 캡처 2025-07-29 191242" src="https://github.com/user-attachments/assets/2f3fdbfd-d59f-44f7-87f3-51a4c40a07ad" />
+<img width="1828" height="307" alt="화면 캡처 2025-07-31 122846" src="https://github.com/user-attachments/assets/b706c0b3-9a3b-4d01-a5ed-489d7e4a331f" />
+
 
 
 ## 🍀전처리
