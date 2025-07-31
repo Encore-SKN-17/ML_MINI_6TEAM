@@ -84,7 +84,8 @@
 <h3> 2. 10개 컬럼 선택 </h3> 
   - 컬럼 중요도 순서 확인
 
-  <br> <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/9e433e2d-1277-46e5-b53f-bf127c9fb25a" /> <br/>
+  <br> <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9e433e2d-1277-46e5-b53f-bf127c9fb25a" /> <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0da9a4a6-7588-465e-bb0f-859bdcce7fce" />
+<br/>
 
   - 관계성 파악하고 싶은 9개의 컬럼과 정답이 될 컬럼 1개만 남기고 나머지 컬럼 삭제
 
@@ -103,7 +104,13 @@
 
 ## 🛡️수행 결과
 
+<h2> 1. 컬럼간 상관관계 확인 </h2>
 
+   <br> <img width="782" height="699" alt="image" src="https://github.com/user-attachments/assets/9ae6270e-8438-4f92-8b0f-3a6dcd83d879" /> <br/>
+   
+<h2> 2. 머신러닝 학습 및 평가 점수 확인 </h2>
+  <h3> </h3>
+  <br> <br/>
 
 **=>‼️결론‼️**
 - 
