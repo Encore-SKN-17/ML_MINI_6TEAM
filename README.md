@@ -88,7 +88,14 @@
 <br><img width="542" height="328" alt="image" src="https://github.com/user-attachments/assets/c8dc0786-f028-40a6-a9ba-47bba062b146" /><br/>
 
 <h3> 3. 이상값 확인</h3>
-  - boxplot으로 확인
+  - boxplot과 bar 그래프로 확인
+
+  <br><img width="1350" height="573" alt="image" src="https://github.com/user-attachments/assets/4d617d92-57bb-4310-bfde-a25da41f7b2c" /><br/>
+  <br> <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/67d7ac2e-e52e-41a5-9455-d1c13b9618e2" /> <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/5dbe0a9b-8422-4c27-ba5f-fd30a0d95ba1" /> <img width="330" height="330" alt="image" src="https://github.com/user-attachments/assets/b8d0fdb4-5455-4a43-b685-b941203cbd05" /> <br/>
+
+
+
+
 
 
 ## 🛡️수행 결과
