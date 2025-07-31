@@ -85,7 +85,7 @@
 <h3> 2. 10개 컬럼 선택 </h3> 
   - 관계성 파악하고 싶은 9개의 컬럼과 정답이 될 컬럼 1개만 남기고 나머지 컬럼 삭제
 
-<br><img width="542" height="328" alt="image" src="https://github.com/user-attachments/assets/c8dc0786-f028-40a6-a9ba-47bba062b146" /><br/>
+<br><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c8dc0786-f028-40a6-a9ba-47bba062b146" /><br/>
 
 <h3> 3. 이상값 확인</h3>
   - boxplot과 bar 그래프로 확인
