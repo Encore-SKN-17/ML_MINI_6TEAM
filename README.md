@@ -66,7 +66,8 @@
 
 ## 🛡️데이터 출처(API 및 크롤링 데이터)
   <br> Kaggle 알츠하이머 데이터 : https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data <br/>
-  <img width="843" height="672" alt="image" src="https://github.com/user-attachments/assets/44da2501-6d78-482f-8b95-dc51f028c39c" />
+  <img width="1493" height="607" alt="image" src="https://github.com/user-attachments/assets/eb92e512-c828-4e10-a88d-19578d4265c7" />
+
 
 
   
