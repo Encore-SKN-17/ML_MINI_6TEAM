@@ -105,8 +105,24 @@
    <br> <img width="782" height="699" alt="image" src="https://github.com/user-attachments/assets/9ae6270e-8438-4f92-8b0f-3a6dcd83d879" /> <br/>
    
 <h2> 2. 머신러닝 학습 및 평가 점수 확인 </h2>
-  <h3> </h3>
+  <h3> [1] SVC 모델 </h3>
+  <br> <img width="714" height="522" alt="image" src="https://github.com/user-attachments/assets/35fae46c-f568-4512-8376-b9171af39e7b" />
+<br/>
+
+  <h3> [2] RandomForest 모델 </h3>
   <br> <br/>
+
+  <h3> [3] XGBoost 모델 </h3>
+  <br>  <img width="460" height="250" alt="xgboot1" src="https://github.com/user-attachments/assets/554a24c4-d58c-4663-8174-34c196b6d028" /> <img width="460" height="250" alt="xgboot1(민균님 2)" src="https://github.com/user-attachments/assets/3df57926-8837-45a2-abf4-028c451cc7f5" /> <img width="920" height="295" alt="xgboot1cv(민균님3)" src="https://github.com/user-attachments/assets/6eb7e91f-f2f8-44f4-a882-5b4d64e97f7f" /> 
+
+
+<br/>
+
+  <h3> [4] DecisionTree 모델 </h3>
+  <br> <br/>
+
+  <h3> [5] LogisticRegression 모델 </h3>
+  <br>  <br/>
 
 **=>‼️결론‼️**
 - 
