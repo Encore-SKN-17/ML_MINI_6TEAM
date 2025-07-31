@@ -76,6 +76,11 @@
 
 
 ## 🍀전처리
+<h2> 1. 데이터셋에 있는 정보 확인 </h2>
+  - 총 34개의 컬럼
+  <img width="567" height="780" alt="image" src="https://github.com/user-attachments/assets/660a646e-ae31-4fe4-b133-c9c5a06a0570" />
+  - 결측값, 이상값 확인
+  <img width="567" height="780" alt="image" src="https://github.com/user-attachments/assets/0fb91dfd-dc9c-46ce-90e1-55af612f9ae2" />
 
 
 ## 🛡️수행 결과
