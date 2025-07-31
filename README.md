@@ -122,7 +122,9 @@
   <br> <br/>
 
   <h3> [5] LogisticRegression 모델 </h3>
-  <br>  <br/>
+  <br> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/0835488e-a799-48a8-85a7-813375642ab5" /> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/c742c073-e463-4f7d-b2f4-267db2195da0" />
+
+ <br/>
 
 **=>‼️결론‼️**
 - 
