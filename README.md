@@ -106,7 +106,8 @@
    
 <h2> 2. 머신러닝 학습 및 평가 점수 확인 </h2>
   <h3> [1] SVC 모델 </h3>
-  <br> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/d8bc11a0-ef26-45ef-b1fc-7e03aca29b52" /> <img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/0120aef7-c54c-423d-9bf5-bc8e2851c1c0" />
+  <br> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/a5619770-ec61-48dc-a20c-0729d00c5025" />
+<img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/0120aef7-c54c-423d-9bf5-bc8e2851c1c0" />
 
 
 
