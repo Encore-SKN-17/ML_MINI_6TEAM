@@ -110,7 +110,9 @@
 <br/>
 
   <h3> [2] RandomForest 모델 </h3>
-  <br> <br/>
+  <br> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/e6c1d34b-7139-4f82-89b4-0339a0c1ffd4" /> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/d633c807-1488-4a03-a1c2-4d72d682301e" />
+
+<br/>
 
   <h3> [3] XGBoost 모델 </h3>
   <br>  <img width="460" height="250" alt="xgboot1" src="https://github.com/user-attachments/assets/554a24c4-d58c-4663-8174-34c196b6d028" /> <img width="460" height="250" alt="xgboot1(민균님 2)" src="https://github.com/user-attachments/assets/3df57926-8837-45a2-abf4-028c451cc7f5" /> <img width="920" height="295" alt="xgboot1cv(민균님3)" src="https://github.com/user-attachments/assets/6eb7e91f-f2f8-44f4-a882-5b4d64e97f7f" /> 
