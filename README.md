@@ -65,6 +65,8 @@
 | 개발 환경 및 협업 도구 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VSCode |
 
 ## 🛡️데이터 출처(API 및 크롤링 데이터)
+  <br> Kaggle 알츠하이머 데이터 : https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data <br/>
+  <img width="843" height="672" alt="image" src="https://github.com/user-attachments/assets/44da2501-6d78-482f-8b95-dc51f028c39c" />
 
 
   
