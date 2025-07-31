@@ -55,7 +55,7 @@
 |-----------------------|--------------------------------------------------------------------------------------------|
 | 언어                  | <img src="https://i.namu.wiki/i/mxMv5lNX8m8lUwu7yTjN6eNZh8JVuI6a_chEyMRc4V9oECkhVIl7OiPiGIOllv14uDVNuwRPVco8abCPe5xOiQ.svg" width="20"/> Python |
 | 라이브러리            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Pandas, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20"/> Selenium, <img src="https://i.namu.wiki/i/uN4a2fBtfIDlRFULkhnx_hE3DNHFvynH-i2vIgcQXTiA6cNeKpQpi_AKyi9FwRDriJlC9uGmeHOQ5BASY9EdD-WdkMfAvXXTn5LNzB5LidF2ZkQ4lNy9rptO5CDqQAdw2DYcX259nte_vpSi2tGPkg.svg" width="40"/> Numpy, <img src="https://i.namu.wiki/i/ir6MwDCWp-pLz09_ehGuX8VOMqaVQcSmpRUdGsemOZS5dgqm8onksRb-aGnQtsp7pQs8wlUCsEgMHMXtI3TlvWt1Zzk2-VAQIzHi99l8AvjE-l16PjZxsqy7HL0hoUCCMp1xed-oVbZaErBZaSr91w.svg" width="40"/> Matplotlib |
-| 개발 환경 및 협업 도구 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VSCode |
+| 개발 환경 및 협업 도구 | <img src="https://static.wikia.nocookie.net/windows/images/0/01/GitHub_logo_2013.png/revision/latest?cb=20231201024220" width="50"/> GitHub, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VSCode |
 
 <br><br/>
 
