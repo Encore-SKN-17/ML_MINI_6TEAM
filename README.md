@@ -11,10 +11,10 @@
 ## 👨‍👩‍👧‍👦 팀원 소개
 <table align="center">
   <tr>
-    <td align="center" valign="top" style="padding: 12px;">
+    <td align="center" valign="top" style="padding: 10px;">
       <strong>김민균</strong><br/>
       <br><br/>
-      <img src="https://github.com/user-attachments/assets/e856e3cd-3ab1-40c1-b6f7-2af13b15efa2" width="120"/><br/> 
+      <img src="https://github.com/user-attachments/assets/e856e3cd-3ab1-40c1-b6f7-2af13b15efa2" width="150"/><br/> 
     </td>
     <td align="center" valign="top" style="padding: 10px;">
       <strong>김준협</strong><br/>
