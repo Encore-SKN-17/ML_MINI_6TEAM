@@ -87,7 +87,7 @@
 <br><img width="542" height="328" alt="image" src="https://github.com/user-attachments/assets/c8dc0786-f028-40a6-a9ba-47bba062b146" /><br/>
 
 <h3> 3. 이상값 확인</h3>
-  - 
+  - boxplot으로 확인
 
 
 ## 🛡️수행 결과
