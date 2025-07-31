@@ -143,8 +143,7 @@
 
   <br><img width="1000" height="680" alt="image" src="https://github.com/user-attachments/assets/a7142b1c-2434-434b-a9c8-38949eedd0f9" />
 
-
-
+   ( 출처: 서울대학교병원 N 의학정보(알츠하이머병) https://www.snuh.org/health/nMedInfo/nView.do?medid=AA000115 )
 <br/>
 
 ## 한줄 회고록
