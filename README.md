@@ -82,6 +82,10 @@
 <br> <img width="500" height="670" alt="image" src="https://github.com/user-attachments/assets/660a646e-ae31-4fe4-b133-c9c5a06a0570" /> <br/>
 
 <h3> 2. 10개 컬럼 선택 </h3> 
+  - 컬럼 중요도 순서 확인
+
+  <br> <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/9e433e2d-1277-46e5-b53f-bf127c9fb25a" /> <br/>
+
   - 관계성 파악하고 싶은 9개의 컬럼과 정답이 될 컬럼 1개만 남기고 나머지 컬럼 삭제
 
 <br><img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c8dc0786-f028-40a6-a9ba-47bba062b146" /><br/>
