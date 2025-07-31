@@ -18,7 +18,7 @@
       <strong>김태연</strong><br/>
       <br><br/>
       <br><br/>
-      <img src="https://github.com/user-attachments/assets/9b2505fc-cd39-4e41-83db-a9dbcd9e17e9" width="180"/><br/>
+      <img src="https://github.com/user-attachments/assets/9b2505fc-cd39-4e41-83db-a9dbcd9e17e9" width="200"/><br/>
     </td>
     <td align="center" valign="top" style="padding: 10px;">
       <strong>박지수</strong><br/>
@@ -80,7 +80,7 @@
 <h3> 2. 10개 컬럼 선택 </h3> 
   - 컬럼 중요도 순서 확인
 
-  <br> <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9e433e2d-1277-46e5-b53f-bf127c9fb25a" /> <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0da9a4a6-7588-465e-bb0f-859bdcce7fce" />
+  <br> <img width="500" height="490" alt="image" src="https://github.com/user-attachments/assets/314e8838-4334-49e9-859f-e5654bb05d35" /> <img width="500" height="490" alt="image1" src="https://github.com/user-attachments/assets/6c692367-fe3e-4ea6-9acf-192d68cae4c9" />
 <br/>
 
   - 관계성 파악하고 싶은 9개의 컬럼과 정답이 될 컬럼 1개만 남기고 나머지 컬럼 삭제
