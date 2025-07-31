@@ -114,7 +114,7 @@
 <br/>
 
   <h3> [2] RandomForest 모델 </h3>
-  <br> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/e6c1d34b-7139-4f82-89b4-0339a0c1ffd4" /> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/d633c807-1488-4a03-a1c2-4d72d682301e" />
+  <br> <img width="460" height="250" alt="image" src="https://github.com/user-attachments/assets/e6c1d34b-7139-4f82-89b4-0339a0c1ffd4" /> <img width="460" height="260" alt="image" src="https://github.com/user-attachments/assets/d633c807-1488-4a03-a1c2-4d72d682301e" />
 
 <br/>
 
