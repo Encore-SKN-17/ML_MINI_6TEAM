@@ -23,7 +23,7 @@
       <strong>김태연</strong><br/>
       <br><br/>
       <br><br/>
-      <img src="https://github.com/user-attachments/assets/9b2505fc-cd39-4e41-83db-a9dbcd9e17e9" width="120"/><br/>
+      <img src="https://github.com/user-attachments/assets/9b2505fc-cd39-4e41-83db-a9dbcd9e17e9" width="180"/><br/>
     </td>
     <td align="center" valign="top" style="padding: 10px;">
       <strong>박지수</strong><br/>
