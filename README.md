@@ -80,7 +80,7 @@
 <h3> 1. 데이터셋에 있는 정보 확인 </h3>
     - 데이터셋 확인 ( 결측값 확인 )
   
-<br> <img width="378" height="520" alt="image" src="https://github.com/user-attachments/assets/660a646e-ae31-4fe4-b133-c9c5a06a0570" /> <br/>
+<br> <img width="500" height="670" alt="image" src="https://github.com/user-attachments/assets/660a646e-ae31-4fe4-b133-c9c5a06a0570" /> <br/>
 
 <h3> 2. 10개 컬럼 선택 </h3> 
   - 관계성 파악하고 싶은 9개의 컬럼과 정답이 될 컬럼 1개만 남기고 나머지 컬럼 삭제
