@@ -1,14 +1,9 @@
-## 프로젝트 제목
-<div align="center">
-<h2>머신러닝을 통한 알츠하이머 발병 예측</h2>
-</div>
+# <div align="center">머신러닝을 통한 알츠하이머 발병 예측<div/>
 
-## 팀 소개
-<div align="center">
+## 👨‍👩‍👧‍👦 팀 소개
+
 <h2>😊태연과 아이들😊</h2>
-</div>
 
-## 👨‍👩‍👧‍👦 팀원 소개
 <table align="center">
   <tr>
     <td align="center" valign="top" style="padding: 10px;">
@@ -43,9 +38,7 @@
   </tr>
 </table>
 
-
-## 🌸프로젝트 주제🌸
-<h2> 머신러닝을 통한 알츠하이머 발병 예측</h2>
+<br><br/>
 
 ## 👓프로젝트 배경 및 목표🧭
 알츠하이머는 치매를 일으키는 가장 흔한 퇴행성 질환 중 하나입니다. 알츠하이머를 가진 환자는 기억과 언어 기능의 장애를 주로 경험하며, 심할 경우 판단력, 방향감각, 심지어는 스스로 판단할 능력을 상실하기도 합니다. 지금까지 알쯔하이머의 원인을 알아보기 위해 많은 연구들이 진행되어 왔습니다. 그 결과, 베타 아밀로이드 단백질, 특정 유전 요인, 성별 등 다양한 요인이 관련이 있을 수 있다는 결과가 발표되었습니다. 그러나 아직 알쯔하이머의 발병기저가 명확하게 밝혀지지는 않았습니다. 
@@ -54,6 +47,7 @@
 
 만약 개인이 알츠하이머에 걸릴 확률을 예측할 수 있고 이를 일찍부터 알 수 있다면 어떨까요? 상황은 완전히 달라질 것입니다. 알츠하이머에 걸릴 가능성이 높다는 걸 알고 있다면, 요즘 기억이 안 난다며 가벼이 넘길 수 있는 일을 재고할 확률을 높여 줄 수 있습니다. 따라서 저희 6조는 이번 프로젝트에서 알츠하이머에 영향을 줄 수 있는 여러 요인을 머신러닝을 통해 학습하고 알쯔하이머에 걸릴 확률을 예측해 조기대응할 수 있도록 도움을 주고자 합니다. 
 
+<br><br/>
 
 ## 🛠️ 기술 스택
 
@@ -63,17 +57,19 @@
 | 라이브러리            | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Pandas, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="20"/> Selenium, <img src="https://i.namu.wiki/i/uN4a2fBtfIDlRFULkhnx_hE3DNHFvynH-i2vIgcQXTiA6cNeKpQpi_AKyi9FwRDriJlC9uGmeHOQ5BASY9EdD-WdkMfAvXXTn5LNzB5LidF2ZkQ4lNy9rptO5CDqQAdw2DYcX259nte_vpSi2tGPkg.svg" width="40"/> Numpy, <img src="https://i.namu.wiki/i/ir6MwDCWp-pLz09_ehGuX8VOMqaVQcSmpRUdGsemOZS5dgqm8onksRb-aGnQtsp7pQs8wlUCsEgMHMXtI3TlvWt1Zzk2-VAQIzHi99l8AvjE-l16PjZxsqy7HL0hoUCCMp1xed-oVbZaErBZaSr91w.svg" width="40"/> Matplotlib |
 | 개발 환경 및 협업 도구 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VSCode |
 
+<br><br/>
+
 ## 🛡️데이터 출처(API 및 크롤링 데이터)
   <br> Kaggle 알츠하이머 데이터 : https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data <br/>
   <img width="1493" height="607" alt="image" src="https://github.com/user-attachments/assets/eb92e512-c828-4e10-a88d-19578d4265c7" />
 
 
-
+<br><br/>
   
 ## 🪟 WBS
 <img width="1828" height="307" alt="화면 캡처 2025-07-31 122846" src="https://github.com/user-attachments/assets/b706c0b3-9a3b-4d01-a5ed-489d7e4a331f" />
 
-
+<br><br/>
 
 ## 🍀전처리
 <h3> 1. 데이터셋에 있는 정보 확인 </h3>
@@ -99,7 +95,7 @@
 
 
 
-
+<br><br/>
 
 
 ## 🛡️수행 결과
